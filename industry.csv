@@ -1,0 +1,75 @@
+"Share of enterprises who had any ICT related security incidents that led to consequences by type of consequences, study domain, observations and year"
+
+"type of consequences";"study domain";"share of enterprises, percent 2021";"share of enterprises, percent 2023";"margin of error, ± 2021";"margin of error, ± 2023"
+"unavailability of ICT services due to hardware/software failures";"total (SNI 10-63, 68-75, 77-82, 95.1)";17;16;2;2
+"unavailability of ICT services due to hardware/software failures";"manufacturing (SNI 10-33)";17;18;2;3
+"unavailability of ICT services due to hardware/software failures";"energy and recycling (SNI 35-39)";32;30;4;5
+"unavailability of ICT services due to hardware/software failures";"construction (SNI 41-43)";12;11;5;5
+"unavailability of ICT services due to hardware/software failures";"trade; motor vehicle and motorcycle garages (SNI 45-47)";23;24;4;5
+"unavailability of ICT services due to hardware/software failures";"transport and storage enterprises (SNI 49-53)";14;7;5;4
+"unavailability of ICT services due to hardware/software failures";"accommodation and food services (SNI 55-56)";8;12;5;5
+"unavailability of ICT services due to hardware/software failures";"information and communication enterprises (SNI 58-63)";23;24;5;6
+"unavailability of ICT services due to hardware/software failures";"real estate companies and managers (SNI 68)";27;20;7;6
+"unavailability of ICT services due to hardware/software failures";"other service companies (SNI 69-74, 77-82, 95.1)";16;..;3;..
+"unavailability of ICT services due to hardware/software failures";"other service companies (SNI 69-75, 77-82, 95.1)";..;13;..;3
+"unavailability of ICT services due to hardware/software failures";"ICT sector (SNI 26.1-26.4, 26.8, 46.5, 58.2, 61-62, 63.1, 95.1)";24;23;5;6
+"unavailability of ICT services due to external cyberattacks";"total (SNI 10-63, 68-75, 77-82, 95.1)";4;4;1;1
+"unavailability of ICT services due to external cyberattacks";"manufacturing (SNI 10-33)";4;3;1;1
+"unavailability of ICT services due to external cyberattacks";"energy and recycling (SNI 35-39)";5;3;2;2
+"unavailability of ICT services due to external cyberattacks";"construction (SNI 41-43)";..;..;..;..
+"unavailability of ICT services due to external cyberattacks";"trade; motor vehicle and motorcycle garages (SNI 45-47)";7;7;3;3
+"unavailability of ICT services due to external cyberattacks";"transport and storage enterprises (SNI 49-53)";..;4;..;3
+"unavailability of ICT services due to external cyberattacks";"accommodation and food services (SNI 55-56)";4;..;1;..
+"unavailability of ICT services due to external cyberattacks";"information and communication enterprises (SNI 58-63)";4;6;2;4
+"unavailability of ICT services due to external cyberattacks";"real estate companies and managers (SNI 68)";6;5;4;3
+"unavailability of ICT services due to external cyberattacks";"other service companies (SNI 69-74, 77-82, 95.1)";2;..;1;..
+"unavailability of ICT services due to external cyberattacks";"other service companies (SNI 69-75, 77-82, 95.1)";..;3;..;2
+"unavailability of ICT services due to external cyberattacks";"ICT sector (SNI 26.1-26.4, 26.8, 46.5, 58.2, 61-62, 63.1, 95.1)";4;6;2;4
+"destruction/corruption of data due to hardware/software failures";"total (SNI 10-63, 68-75, 77-82, 95.1)";3;4;1;1
+"destruction/corruption of data due to hardware/software failures";"manufacturing (SNI 10-33)";3;4;1;1
+"destruction/corruption of data due to hardware/software failures";"energy and recycling (SNI 35-39)";4;4;2;3
+"destruction/corruption of data due to hardware/software failures";"construction (SNI 41-43)";3;4;3;3
+"destruction/corruption of data due to hardware/software failures";"trade; motor vehicle and motorcycle garages (SNI 45-47)";4;5;2;3
+"destruction/corruption of data due to hardware/software failures";"transport and storage enterprises (SNI 49-53)";..;..;..;..
+"destruction/corruption of data due to hardware/software failures";"accommodation and food services (SNI 55-56)";4;..;3;..
+"destruction/corruption of data due to hardware/software failures";"information and communication enterprises (SNI 58-63)";2;4;1;3
+"destruction/corruption of data due to hardware/software failures";"real estate companies and managers (SNI 68)";3;..;2;..
+"destruction/corruption of data due to hardware/software failures";"other service companies (SNI 69-74, 77-82, 95.1)";4;..;2;..
+"destruction/corruption of data due to hardware/software failures";"other service companies (SNI 69-75, 77-82, 95.1)";..;4;..;2
+"destruction/corruption of data due to hardware/software failures";"ICT sector (SNI 26.1-26.4, 26.8, 46.5, 58.2, 61-62, 63.1, 95.1)";2;4;1;3
+"destruction/corruption of data due to malicious software";"total (SNI 10-63, 68-75, 77-82, 95.1)";2;1;1;1
+"destruction/corruption of data due to malicious software";"manufacturing (SNI 10-33)";1;2;1;1
+"destruction/corruption of data due to malicious software";"energy and recycling (SNI 35-39)";1;..;1;..
+"destruction/corruption of data due to malicious software";"construction (SNI 41-43)";0;..;0;..
+"destruction/corruption of data due to malicious software";"trade; motor vehicle and motorcycle garages (SNI 45-47)";5;2;2;2
+"destruction/corruption of data due to malicious software";"transport and storage enterprises (SNI 49-53)";..;0;..;0
+"destruction/corruption of data due to malicious software";"accommodation and food services (SNI 55-56)";3;..;1;..
+"destruction/corruption of data due to malicious software";"information and communication enterprises (SNI 58-63)";2;3;1;3
+"destruction/corruption of data due to malicious software";"real estate companies and managers (SNI 68)";..;..;..;..
+"destruction/corruption of data due to malicious software";"other service companies (SNI 69-74, 77-82, 95.1)";1;..;1;..
+"destruction/corruption of data due to malicious software";"other service companies (SNI 69-75, 77-82, 95.1)";..;1;..;1
+"destruction/corruption of data due to malicious software";"ICT sector (SNI 26.1-26.4, 26.8, 46.5, 58.2, 61-62, 63.1, 95.1)";1;3;1;3
+"disclosure of confidential data due to intentional actions by own employees";"total (SNI 10-63, 68-75, 77-82, 95.1)";1;2;0;1
+"disclosure of confidential data due to intentional actions by own employees";"manufacturing (SNI 10-33)";2;2;1;1
+"disclosure of confidential data due to intentional actions by own employees";"energy and recycling (SNI 35-39)";1;..;1;..
+"disclosure of confidential data due to intentional actions by own employees";"construction (SNI 41-43)";..;..;..;..
+"disclosure of confidential data due to intentional actions by own employees";"trade; motor vehicle and motorcycle garages (SNI 45-47)";3;3;2;2
+"disclosure of confidential data due to intentional actions by own employees";"transport and storage enterprises (SNI 49-53)";0;0;0;0
+"disclosure of confidential data due to intentional actions by own employees";"accommodation and food services (SNI 55-56)";2;..;1;..
+"disclosure of confidential data due to intentional actions by own employees";"information and communication enterprises (SNI 58-63)";0;2;0;2
+"disclosure of confidential data due to intentional actions by own employees";"real estate companies and managers (SNI 68)";..;..;..;..
+"disclosure of confidential data due to intentional actions by own employees";"other service companies (SNI 69-74, 77-82, 95.1)";..;..;..;..
+"disclosure of confidential data due to intentional actions by own employees";"other service companies (SNI 69-75, 77-82, 95.1)";..;1;..;1
+"disclosure of confidential data due to intentional actions by own employees";"ICT sector (SNI 26.1-26.4, 26.8, 46.5, 58.2, 61-62, 63.1, 95.1)";..;..;..;..
+"disclosure of confidential data due to unintentional actions by own employees";"total (SNI 10-63, 68-75, 77-82, 95.1)";1;2;0;1
+"disclosure of confidential data due to unintentional actions by own employees";"manufacturing (SNI 10-33)";1;2;0;1
+"disclosure of confidential data due to unintentional actions by own employees";"energy and recycling (SNI 35-39)";3;1;1;1
+"disclosure of confidential data due to unintentional actions by own employees";"construction (SNI 41-43)";..;..;..;..
+"disclosure of confidential data due to unintentional actions by own employees";"trade; motor vehicle and motorcycle garages (SNI 45-47)";1;3;1;2
+"disclosure of confidential data due to unintentional actions by own employees";"transport and storage enterprises (SNI 49-53)";..;..;..;..
+"disclosure of confidential data due to unintentional actions by own employees";"accommodation and food services (SNI 55-56)";1;..;1;..
+"disclosure of confidential data due to unintentional actions by own employees";"information and communication enterprises (SNI 58-63)";4;3;3;2
+"disclosure of confidential data due to unintentional actions by own employees";"real estate companies and managers (SNI 68)";2;..;2;..
+"disclosure of confidential data due to unintentional actions by own employees";"other service companies (SNI 69-74, 77-82, 95.1)";1;..;1;..
+"disclosure of confidential data due to unintentional actions by own employees";"other service companies (SNI 69-75, 77-82, 95.1)";..;2;..;1
+"disclosure of confidential data due to unintentional actions by own employees";"ICT sector (SNI 26.1-26.4, 26.8, 46.5, 58.2, 61-62, 63.1, 95.1)";4;3;3;2

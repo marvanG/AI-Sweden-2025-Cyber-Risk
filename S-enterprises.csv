@@ -1,0 +1,39 @@
+"Share of enterprises who had any ICT related security incidents that led to consequences by type of consequences, study domain, observations and year"
+
+"type of consequences";"study domain";"share of enterprises, percent 2021";"share of enterprises, percent 2023";"margin of error, ± 2021";"margin of error, ± 2023"
+"unavailability of ICT services due to hardware/software failures";"1-9 employees in total";6;5;2;2
+"unavailability of ICT services due to hardware/software failures";"0 employees";4;5;2;2
+"unavailability of ICT services due to hardware/software failures";"0-4 employees";4;5;1;1
+"unavailability of ICT services due to hardware/software failures";"0-9 employees";5;5;1;1
+"unavailability of ICT services due to hardware/software failures";"1-4 employees";5;4;2;2
+"unavailability of ICT services due to hardware/software failures";"5-9 employees";10;12;5;6
+"unavailability of ICT services due to external cyberattacks";"1-9 employees in total";1;2;1;1
+"unavailability of ICT services due to external cyberattacks";"0 employees";..;2;..;1
+"unavailability of ICT services due to external cyberattacks";"0-4 employees";1;2;0;1
+"unavailability of ICT services due to external cyberattacks";"0-9 employees";1;2;0;1
+"unavailability of ICT services due to external cyberattacks";"1-4 employees";1;2;1;1
+"unavailability of ICT services due to external cyberattacks";"5-9 employees";..;6;..;4
+"destruction/corruption of data due to hardware/software failures";"1-9 employees in total";2;2;1;1
+"destruction/corruption of data due to hardware/software failures";"0 employees";1;2;1;1
+"destruction/corruption of data due to hardware/software failures";"0-4 employees";1;2;1;1
+"destruction/corruption of data due to hardware/software failures";"0-9 employees";2;2;1;1
+"destruction/corruption of data due to hardware/software failures";"1-4 employees";2;2;1;1
+"destruction/corruption of data due to hardware/software failures";"5-9 employees";3;4;3;4
+"destruction/corruption of data due to malicious software";"1-9 employees in total";..;2;..;1
+"destruction/corruption of data due to malicious software";"0 employees";..;..;..;..
+"destruction/corruption of data due to malicious software";"0-4 employees";0;1;0;1
+"destruction/corruption of data due to malicious software";"0-9 employees";0;1;0;1
+"destruction/corruption of data due to malicious software";"1-4 employees";..;2;..;1
+"destruction/corruption of data due to malicious software";"5-9 employees";..;2;..;2
+"disclosure of confidential data due to intentional actions by own employees";"1-9 employees in total";..;0;..;0
+"disclosure of confidential data due to intentional actions by own employees";"0 employees";..;..;..;..
+"disclosure of confidential data due to intentional actions by own employees";"0-4 employees";..;0;..;0
+"disclosure of confidential data due to intentional actions by own employees";"0-9 employees";..;0;..;0
+"disclosure of confidential data due to intentional actions by own employees";"1-4 employees";..;0;..;0
+"disclosure of confidential data due to intentional actions by own employees";"5-9 employees";..;..;..;..
+"disclosure of confidential data due to unintentional actions by own employees";"1-9 employees in total";..;1;..;1
+"disclosure of confidential data due to unintentional actions by own employees";"0 employees";..;..;..;..
+"disclosure of confidential data due to unintentional actions by own employees";"0-4 employees";..;1;..;0
+"disclosure of confidential data due to unintentional actions by own employees";"0-9 employees";..;1;..;0
+"disclosure of confidential data due to unintentional actions by own employees";"1-4 employees";..;..;..;..
+"disclosure of confidential data due to unintentional actions by own employees";"5-9 employees";..;..;..;..

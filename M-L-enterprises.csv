@@ -1,0 +1,27 @@
+"Share of enterprises who had any ICT related security incidents that led to consequences by type of consequences, study domain, observations and year"
+
+"type of consequences";"study domain";"share of enterprises, percent 2021";"share of enterprises, percent 2023";"margin of error, ± 2021";"margin of error, ± 2023"
+"unavailability of ICT services due to hardware/software failures";"10 or more employees in total";17;16;2;2
+"unavailability of ICT services due to hardware/software failures";"10-49 employees";15;14;2;2
+"unavailability of ICT services due to hardware/software failures";"50-249 employees";24;25;3;4
+"unavailability of ICT services due to hardware/software failures";"250 or more employees";39;37;1;1
+"unavailability of ICT services due to external cyberattacks";"10 or more employees in total";4;4;1;1
+"unavailability of ICT services due to external cyberattacks";"10-49 employees";3;4;1;1
+"unavailability of ICT services due to external cyberattacks";"50-249 employees";7;3;2;2
+"unavailability of ICT services due to external cyberattacks";"250 or more employees";9;7;1;1
+"destruction/corruption of data due to hardware/software failures";"10 or more employees in total";3;4;1;1
+"destruction/corruption of data due to hardware/software failures";"10-49 employees";3;4;1;1
+"destruction/corruption of data due to hardware/software failures";"50-249 employees";3;4;1;2
+"destruction/corruption of data due to hardware/software failures";"250 or more employees";6;5;1;0
+"destruction/corruption of data due to malicious software";"10 or more employees in total";2;1;1;1
+"destruction/corruption of data due to malicious software";"10-49 employees";2;1;1;1
+"destruction/corruption of data due to malicious software";"50-249 employees";4;1;2;1
+"destruction/corruption of data due to malicious software";"250 or more employees";3;3;0;0
+"disclosure of confidential data due to intentional actions by own employees";"10 or more employees in total";1;2;0;1
+"disclosure of confidential data due to intentional actions by own employees";"10-49 employees";1;2;0;1
+"disclosure of confidential data due to intentional actions by own employees";"50-249 employees";4;2;2;2
+"disclosure of confidential data due to intentional actions by own employees";"250 or more employees";4;3;0;0
+"disclosure of confidential data due to unintentional actions by own employees";"10 or more employees in total";1;2;0;1
+"disclosure of confidential data due to unintentional actions by own employees";"10-49 employees";1;1;1;1
+"disclosure of confidential data due to unintentional actions by own employees";"50-249 employees";4;3;1;2
+"disclosure of confidential data due to unintentional actions by own employees";"250 or more employees";6;5;1;1

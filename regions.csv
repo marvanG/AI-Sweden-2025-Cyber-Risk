@@ -1,0 +1,57 @@
+"Share of enterprises who had any ICT related security incidents that led to consequences by type of consequences, study domain, observations and year"
+
+"type of consequences";"study domain";"share of enterprises, percent 2021";"share of enterprises, percent 2023";"margin of error, ± 2021";"margin of error, ± 2023"
+"unavailability of ICT services due to hardware/software failures";"Sweden";17;16;2;2
+"unavailability of ICT services due to hardware/software failures";"Stockholm";18;16;3;3
+"unavailability of ICT services due to hardware/software failures";"East-Central Sweden";15;23;4;6
+"unavailability of ICT services due to hardware/software failures";"Småland and islands";20;16;5;5
+"unavailability of ICT services due to hardware/software failures";"South Sweden";18;15;5;5
+"unavailability of ICT services due to hardware/software failures";"West Sweden";17;14;4;4
+"unavailability of ICT services due to hardware/software failures";"North-Central Sweden";20;13;6;6
+"unavailability of ICT services due to hardware/software failures";"Central Norrland";14;15;6;9
+"unavailability of ICT services due to hardware/software failures";"Upper Norrland";12;17;4;8
+"unavailability of ICT services due to external cyberattacks";"Sweden";4;4;1;1
+"unavailability of ICT services due to external cyberattacks";"Stockholm";4;5;2;2
+"unavailability of ICT services due to external cyberattacks";"East-Central Sweden";2;4;2;3
+"unavailability of ICT services due to external cyberattacks";"Småland and islands";4;..;2;..
+"unavailability of ICT services due to external cyberattacks";"South Sweden";4;2;2;2
+"unavailability of ICT services due to external cyberattacks";"West Sweden";4;2;2;2
+"unavailability of ICT services due to external cyberattacks";"North-Central Sweden";3;6;3;4
+"unavailability of ICT services due to external cyberattacks";"Central Norrland";4;..;3;..
+"unavailability of ICT services due to external cyberattacks";"Upper Norrland";3;..;2;..
+"destruction/corruption of data due to hardware/software failures";"Sweden";3;4;1;1
+"destruction/corruption of data due to hardware/software failures";"Stockholm";3;5;1;2
+"destruction/corruption of data due to hardware/software failures";"East-Central Sweden";4;6;3;4
+"destruction/corruption of data due to hardware/software failures";"Småland and islands";6;3;3;3
+"destruction/corruption of data due to hardware/software failures";"South Sweden";3;..;2;..
+"destruction/corruption of data due to hardware/software failures";"West Sweden";3;2;2;2
+"destruction/corruption of data due to hardware/software failures";"North-Central Sweden";..;4;..;4
+"destruction/corruption of data due to hardware/software failures";"Central Norrland";..;..;..;..
+"destruction/corruption of data due to hardware/software failures";"Upper Norrland";3;..;2;..
+"destruction/corruption of data due to malicious software";"Sweden";2;1;1;1
+"destruction/corruption of data due to malicious software";"Stockholm";2;1;1;1
+"destruction/corruption of data due to malicious software";"East-Central Sweden";..;2;..;1
+"destruction/corruption of data due to malicious software";"Småland and islands";1;0;1;0
+"destruction/corruption of data due to malicious software";"South Sweden";2;..;2;..
+"destruction/corruption of data due to malicious software";"West Sweden";3;1;1;1
+"destruction/corruption of data due to malicious software";"North-Central Sweden";..;..;..;..
+"destruction/corruption of data due to malicious software";"Central Norrland";..;..;..;..
+"destruction/corruption of data due to malicious software";"Upper Norrland";1;..;1;..
+"disclosure of confidential data due to intentional actions by own employees";"Sweden";1;2;0;1
+"disclosure of confidential data due to intentional actions by own employees";"Stockholm";2;3;1;2
+"disclosure of confidential data due to intentional actions by own employees";"East-Central Sweden";..;..;..;..
+"disclosure of confidential data due to intentional actions by own employees";"Småland and islands";1;0;1;0
+"disclosure of confidential data due to intentional actions by own employees";"South Sweden";1;..;1;..
+"disclosure of confidential data due to intentional actions by own employees";"West Sweden";1;1;0;1
+"disclosure of confidential data due to intentional actions by own employees";"North-Central Sweden";1;..;1;..
+"disclosure of confidential data due to intentional actions by own employees";"Central Norrland";..;..;..;..
+"disclosure of confidential data due to intentional actions by own employees";"Upper Norrland";2;..;2;..
+"disclosure of confidential data due to unintentional actions by own employees";"Sweden";1;2;0;1
+"disclosure of confidential data due to unintentional actions by own employees";"Stockholm";1;3;1;2
+"disclosure of confidential data due to unintentional actions by own employees";"East-Central Sweden";..;..;..;..
+"disclosure of confidential data due to unintentional actions by own employees";"Småland and islands";1;0;1;0
+"disclosure of confidential data due to unintentional actions by own employees";"South Sweden";2;2;1;1
+"disclosure of confidential data due to unintentional actions by own employees";"West Sweden";2;1;2;1
+"disclosure of confidential data due to unintentional actions by own employees";"North-Central Sweden";0;0;0;0
+"disclosure of confidential data due to unintentional actions by own employees";"Central Norrland";..;..;..;..
+"disclosure of confidential data due to unintentional actions by own employees";"Upper Norrland";0;..;0;..
